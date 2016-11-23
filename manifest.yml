@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: ArnoldYin
-  host: arnoldyin
+  name: CharlesZhong
+  host: charleszhong
   disk_quota: 1024M
